@@ -1,3 +1,7 @@
+version 7.0 – 13/07/2017 Wrote & designed by : Aurel Firmware, Nore Fpv & Dom Wilk With the support of CHRONODRONE
+
+Pré-requis: OpenTX 2.2
+
 OpenTX 2.2 
 
 Pour installer Open TX 2.2, WE ARE FPV a publié une excellente vidéo
